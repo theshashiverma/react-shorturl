@@ -34,6 +34,7 @@ const ShortUrl = () => {
                 value="Get Short Url"
             />
             
+            {/* Your short url will shown here */}
             {shortUrl !== null && 
             <div>
                 <p>

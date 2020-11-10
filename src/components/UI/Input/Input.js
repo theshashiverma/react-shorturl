@@ -1,3 +1,4 @@
+// this is the Input component
 import React from 'react'
 
 const Input = (props) => {
